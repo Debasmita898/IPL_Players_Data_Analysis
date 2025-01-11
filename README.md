@@ -1,4 +1,4 @@
-# IPL_Players_Data_Analysis
+# IPL_Players_Data_Analysis (Using Python and Power BI)
 The main objective of this project is to analyse the players data, match summary data, batting summary data and bowling  summary data of the T20 world cup championship to select 11 best players for an IPL team. The players of each category (Openers, middle order, lower order, all rounders and fast bowlers) must satisfy certain criteria to be considered for the final 11. The criteria are provided by stakeholders and attached in the pdf file named “Selection criteria”.
 
 # Dataset
