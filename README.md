@@ -4,7 +4,7 @@ The main objective of this project is to analyse the players data, match summary
 # Dataset
 The dataset contains 4 tables as follows <br>
 #### A.	T20_WC_batting_summary <br>
-    Contains batting details with columns as follows.<br>
+    Contains batting details with columns as follows.
 
 1.	Match                 :  Specifies the teams competing in the match (team1 versus team2).<br>
 2.	TeamInnings           :  Indicates batting team.<br>
@@ -19,7 +19,7 @@ The dataset contains 4 tables as follows <br>
                              faced.<br>
 
 #### B.	T20_WC_bowling_summary<br>
-    Contains bowling details with columns as follows.<br>
+    Contains bowling details with columns as follows.
 
 1.	Match                 : The teams involved in the match (e.g., Team1 vs Team2).<br>
 2.	BowlingTeam           : The team that is bowling during the specific period.<br>
@@ -36,8 +36,8 @@ The dataset contains 4 tables as follows <br>
 13.	No Balls              : The number of no balls bowled by the bowler during the match.<br>
 
 #### C.	T20_WC_player_info<br>
-    Contains all the information of the players participating in the T20 world cup <br>
-    championship. Contains columns as follows.<br>
+    Contains all the information of the players participating in the T20 world cup 
+    championship. Contains columns as follows.
 
 1.	Name                  : The name of the player participating in the T20 World Cup.<br>
 2.	Team                  : The team the player represents in the T20 World Cup.<br>
@@ -48,7 +48,7 @@ The dataset contains 4 tables as follows <br>
 6.	Description           : A brief overview of the player's skills, achievements, and playing characteristics.<br>
 
 #### D.	T20_WC_match_results<br>
-    Contains information about the match results and have columns as follows.<br>
+    Contains information about the match results and have columns as follows.
 
 1.	Team1                 : The first team participating in the match.<br>
 2.	Team2                 : The second team participating in the match.<br>
